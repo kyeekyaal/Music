@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.railway.app/schemas/railway.schema.json",
+  "nixpacks": {
+    "pkgs": [
+      "ffmpeg",
+      "yt-dlp"
+    ]
+  },
+  "build": {
+    "builder": "nixpacks"
+  }
+}
