@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+yt-dlp
+pillow
+requests
+flask
+python-dotenv
